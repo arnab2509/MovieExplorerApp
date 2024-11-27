@@ -69,6 +69,6 @@ class MovieService {
   }
 }
 final movieService = MovieService(
-  apiKey: 'http://www.omdbapi.com/?i=tt3896198&apikey=a7ba8a47',
+  apiKey: 'Write_your_api_key',
   baseUrl: 'https://www.omdbapi.com',
 );

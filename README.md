@@ -1,18 +1,12 @@
-Movie Explorer
-Project Overview
-Movie Explorer is a Flutter application that allows users to browse and search movies using The Movie Database (OMDb) API.
-Features
+Key Implementation Details:
+1. Comprehensive state management with Provider
+2. Pagination support
+3. Search functionality
+4. Error handling
+5. Detailed movie information display
 
-Browse popular movies
-Search movies by title
-View detailed movie information
-Pagination support
-Error handling
+To complete the project:
+1. Replace the API key placeholder
+2. Ensure you have the required dependencies
 
-Setup and Installation
-Prerequisites
-
-Flutter SDK
-Dart SDK
-The Movie Database (OMDb) API Key
 
